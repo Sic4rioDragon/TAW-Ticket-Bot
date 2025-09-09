@@ -1,0 +1,57 @@
+{
+  "support_role_ids": [],
+  "no_mention_role_ids": [],
+  "ticket_category_id": null,
+  "log_channel_id": null,
+  "panel_channel_id": null,
+  "user_limit_max_open": 0,
+
+  "ticket_numbers": {
+    "width": 4,
+    "global": { "start": 1, "next": 1 },
+    "per_type": {}
+  },
+
+  "ticket_types": [
+    {
+      "label": "New Member",
+      "description": "Apply to join",
+      "emoji": "💬",
+      "category_id": null,
+      "enabled": false,
+      "support_role_ids": [],
+      "intake_form": { "enabled": false, "questions": [] },
+      "no_mention_role_ids": []
+    },
+    {
+      "label": "Former Member",
+      "description": "Rejoin / reinstate",
+      "emoji": "🐞",
+      "category_id": null,
+      "enabled": false,
+      "support_role_ids": [],
+      "intake_form": { "enabled": false, "questions": [] },
+      "no_mention_role_ids": []
+    },
+    {
+      "label": "TAW Member",
+      "description": "Internal support or access",
+      "emoji": "📝",
+      "category_id": null,
+      "enabled": false,
+      "support_role_ids": [],
+      "intake_form": { "enabled": false, "questions": [] },
+      "no_mention_role_ids": []
+    },
+    {
+      "label": "Support Ticket",
+      "description": "General support",
+      "emoji": "🛠️",
+      "category_id": null,
+      "enabled": false,
+      "support_role_ids": [],
+      "intake_form": { "enabled": false, "questions": [] },
+      "no_mention_role_ids": []
+    }
+  ]
+}

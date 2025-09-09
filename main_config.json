@@ -1,0 +1,9 @@
+{
+  "token": "",
+  "bot_master_ids": [],
+  "test_mode": {
+    "enabled": false,
+    "guild_ids": [],
+    "prod_override_ids": []
+  }
+}
